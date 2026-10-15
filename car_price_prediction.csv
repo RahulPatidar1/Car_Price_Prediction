@@ -1,0 +1,501 @@
+Car_ID,Brand,Model,Body_Type,Year,Car_Age_Years,Fuel_Type,Transmission,Owner_Type,Kms_Driven,Engine_CC,Power_BHP,Mileage_kmpl,Seats,Selling_Price_Lakh_INR
+L0001,Audi,Q7,SUV,2024,2,Diesel,Automatic,First,17000,2967,250.5,15.1,7,76.31
+L0002,Land Rover,Discovery Sport,SUV,2021,5,Diesel,Automatic,First,53400,1999,176.4,16.2,7,37.31
+L0003,Ferrari,Portofino,Coupe,2024,2,Petrol,Automatic,First,2400,3855,581.9,8.5,4,290.25
+L0004,BMW,3 Series,Sedan,2022,4,Petrol,Automatic,Second,42100,1998,255.2,9.8,5,31.41
+L0005,BMW,X5,SUV,2023,3,Petrol,Automatic,First,22800,2998,325.0,10.8,5,71.82
+L0006,Mercedes-Benz,C-Class,Sedan,2022,4,Diesel,Automatic,First,52700,1950,189.2,17.2,5,40.1
+L0007,Porsche,Macan,SUV,2020,6,Petrol,Automatic,First,42100,2894,372.5,10.5,5,46.18
+L0008,Land Rover,Range Rover,SUV,2025,1,Petrol,Automatic,First,8000,2996,397.3,9.6,5,209.28
+L0009,Mercedes-Benz,S-Class,Sedan,2019,7,Petrol,Automatic,First,71400,2999,372.2,8.4,5,89.04
+L0010,Mercedes-Benz,E-Class,Sedan,2023,3,Petrol,Automatic,First,36200,1991,199.2,11.0,5,57.53
+L0011,BMW,X1,SUV,2018,8,Diesel,Automatic,First,86600,1995,153.5,15.9,5,19.31
+L0012,Mercedes-Benz,GLC,SUV,2019,7,Diesel,Automatic,Second,79500,1950,194.6,17.3,5,32.56
+L0013,BMW,3 Series,Sedan,2020,6,Petrol,Automatic,First,43200,1998,257.4,10.3,5,29.49
+L0014,Porsche,Macan,SUV,2022,4,Petrol,Automatic,First,40200,2894,375.4,9.8,5,58.44
+L0015,BMW,X1,SUV,2025,1,Petrol,Automatic,Second,7800,1499,133.0,11.3,5,42.46
+L0016,BMW,3 Series,Sedan,2024,2,Diesel,Automatic,First,16300,1995,186.6,14.3,5,47.78
+L0017,Mercedes-Benz,GLC,SUV,2025,1,Diesel,Automatic,First,13100,1950,199.3,17.8,5,74.24
+L0018,Audi,A6,Sedan,2025,1,Diesel,Automatic,First,10100,1968,194.3,15.7,5,58.26
+L0019,BMW,5 Series,Sedan,2021,5,Diesel,Automatic,Second,52600,1995,193.5,15.9,5,36.82
+L0020,Audi,Q7,SUV,2020,6,Diesel,Automatic,First,40400,2967,238.4,16.5,7,46.47
+L0021,Lexus,ES 300h,Sedan,2017,9,Hybrid,Automatic,First,74300,2487,217.1,17.7,5,23.73
+L0022,Audi,A4,Sedan,2023,3,Diesel,Automatic,First,35500,1968,189.0,16.3,5,35.12
+L0023,Jaguar,F-Pace,SUV,2025,1,Diesel,Automatic,Second,10500,1999,181.4,17.1,5,57.39
+L0024,BMW,3 Series,Sedan,2019,7,Petrol,Automatic,First,76500,1998,247.9,9.8,5,27.05
+L0025,Volvo,XC60,SUV,2020,6,Petrol,Automatic,First,71300,1969,249.3,12.8,5,31.75
+L0026,Audi,Q3,SUV,2014,12,Petrol,Automatic,Third,145500,1984,184.9,9.2,5,10.11
+L0027,BMW,X1,SUV,2024,2,Petrol,Automatic,Second,23900,1499,133.0,11.9,5,36.28
+L0028,BMW,X5,SUV,2022,4,Diesel,Automatic,First,29200,2993,258.6,15.4,5,68.76
+L0029,Land Rover,Range Rover,SUV,2020,6,Diesel,Automatic,First,45100,2993,353.1,14.0,5,131.97
+L0030,Audi,Q7,SUV,2018,8,Diesel,Automatic,First,80700,2967,243.2,14.7,7,33.7
+L0031,Volvo,XC60,SUV,2020,6,Diesel,Automatic,First,73500,1969,188.6,14.0,5,33.61
+L0032,BMW,7 Series,Sedan,2019,7,Petrol,Automatic,First,56400,2998,365.6,9.8,5,83.63
+L0033,Mercedes-Benz,E-Class,Sedan,2024,2,Petrol,Automatic,First,19200,1991,189.7,12.2,5,67.05
+L0034,Mercedes-Benz,C-Class,Sedan,2020,6,Petrol,Automatic,First,72900,1496,203.2,11.8,5,31.2
+L0035,Jaguar,XF,Sedan,2024,2,Petrol,Automatic,Second,24600,1997,245.1,11.7,5,39.69
+L0036,Land Rover,Range Rover Evoque,SUV,2018,8,Petrol,Automatic,First,96200,1997,252.9,11.1,5,29.28
+L0037,Land Rover,Range Rover,SUV,2024,2,Petrol,Automatic,Third,24800,2996,402.1,10.6,5,150.29
+L0038,Audi,Q7,SUV,2018,8,Diesel,Automatic,Second,71100,2967,248.3,15.3,7,32.84
+L0039,Mercedes-Benz,GLE,SUV,2024,2,Petrol,Automatic,First,19900,1991,265.8,10.3,5,81.25
+L0040,Land Rover,Range Rover,SUV,2025,1,Petrol,Automatic,First,10000,2996,400.2,8.4,5,205.22
+L0041,Jaguar,XF,Sedan,2025,1,Diesel,Automatic,First,19400,1999,172.9,17.1,5,49.03
+L0042,Mercedes-Benz,S-Class,Sedan,2024,2,Diesel,Automatic,First,22000,2925,324.4,14.8,5,157.68
+L0043,Audi,A4,Sedan,2020,6,Petrol,Automatic,First,53900,1984,184.9,12.7,5,26.73
+L0044,Porsche,911,Coupe,2019,7,Petrol,Automatic,First,55800,2981,370.5,9.1,4,94.01
+L0045,BMW,X1,SUV,2025,1,Petrol,Automatic,First,13800,1499,134.1,12.4,5,45.46
+L0046,Audi,A6,Sedan,2023,3,Petrol,Automatic,First,35800,1984,246.4,12.0,5,47.05
+L0047,BMW,X1,SUV,2025,1,Diesel,Automatic,Third,15700,1995,150.1,14.7,5,36.18
+L0048,BMW,3 Series,Sedan,2020,6,Diesel,Automatic,First,55100,1995,189.6,16.2,5,29.6
+L0049,Land Rover,Range Rover,SUV,2023,3,Diesel,Automatic,Second,34900,2993,349.9,14.5,5,160.36
+L0050,Land Rover,Range Rover Evoque,SUV,2018,8,Diesel,Automatic,First,65900,1999,181.6,15.9,5,27.29
+L0051,BMW,5 Series,Sedan,2022,4,Petrol,Automatic,First,39700,1998,251.0,11.5,5,42.83
+L0052,Mercedes-Benz,S-Class,Sedan,2021,5,Diesel,Automatic,First,28900,2925,326.7,15.5,5,127.2
+L0053,Audi,Q3,SUV,2015,11,Diesel,Automatic,First,135500,1968,189.6,16.2,5,12.03
+L0054,Audi,A6,Sedan,2024,2,Diesel,Automatic,First,24400,1968,194.9,15.9,5,52.62
+L0055,Audi,Q7,SUV,2016,10,Petrol,Automatic,First,73600,2995,328.9,9.5,7,32.52
+L0056,Audi,A4,Sedan,2024,2,Diesel,Automatic,First,27200,1968,189.6,17.9,5,39.73
+L0057,Volvo,XC60,SUV,2021,5,Diesel,Automatic,First,57600,1969,188.6,15.2,5,38.74
+L0058,Audi,A6,Sedan,2020,6,Diesel,Automatic,First,46100,1968,193.3,15.2,5,32.32
+L0059,BMW,3 Series,Sedan,2025,1,Diesel,Automatic,First,9200,1995,192.0,16.8,5,48.87
+L0060,BMW,X5,SUV,2019,7,Petrol,Automatic,First,66500,2998,345.0,8.1,5,46.02
+L0061,Mercedes-Benz,GLC,SUV,2025,1,Petrol,Automatic,First,13200,1991,259.9,13.4,5,63.73
+L0062,BMW,5 Series,Sedan,2025,1,Diesel,Automatic,First,6500,1995,189.1,17.3,5,61.81
+L0063,Audi,A4,Sedan,2021,5,Diesel,Automatic,First,43400,1968,187.9,15.2,5,29.84
+L0064,BMW,3 Series,Sedan,2024,2,Diesel,Automatic,First,20300,1995,192.1,14.5,5,44.81
+L0065,Mercedes-Benz,GLC,SUV,2019,7,Petrol,Automatic,First,72100,1991,249.5,13.0,5,35.08
+L0066,Mercedes-Benz,E-Class,Sedan,2019,7,Diesel,Automatic,First,54200,1950,197.2,15.2,5,41.97
+L0067,BMW,X1,SUV,2024,2,Petrol,Automatic,Second,21200,1499,137.0,12.3,5,36.28
+L0068,Mercedes-Benz,GLC,SUV,2019,7,Petrol,Automatic,First,69400,1991,253.1,11.3,5,35.66
+L0069,BMW,X1,SUV,2019,7,Petrol,Automatic,First,66700,1499,133.3,10.7,5,23.92
+L0070,Audi,A4,Sedan,2018,8,Petrol,Automatic,Second,88900,1984,191.3,11.6,5,19.17
+L0071,Land Rover,Range Rover,SUV,2025,1,Diesel,Automatic,Second,13900,2993,335.7,15.2,5,177.43
+L0072,Land Rover,Range Rover Evoque,SUV,2018,8,Petrol,Automatic,Second,64600,1997,244.3,11.0,5,21.9
+L0073,Porsche,911,Coupe,2023,3,Petrol,Automatic,First,36300,3996,505.1,8.8,4,151.34
+L0074,Mercedes-Benz,E-Class,Sedan,2022,4,Diesel,Automatic,First,27000,1950,196.3,16.8,5,56.36
+L0075,Land Rover,Range Rover Evoque,SUV,2016,10,Petrol,Automatic,First,110400,1997,246.2,11.4,5,21.69
+L0076,Porsche,Cayenne,SUV,2023,3,Petrol,Automatic,Second,31800,2995,325.0,10.2,5,90.79
+L0077,BMW,X1,SUV,2023,3,Petrol,Automatic,First,38300,1499,134.1,11.5,5,36.0
+L0078,Land Rover,Range Rover,SUV,2017,9,Diesel,Automatic,First,85800,2993,346.0,16.3,5,94.12
+L0079,Mercedes-Benz,C-Class,Sedan,2023,3,Diesel,Automatic,First,38400,1950,198.2,16.3,5,44.42
+L0080,Audi,Q7,SUV,2024,2,Diesel,Automatic,First,27600,2967,247.9,14.8,7,70.27
+L0081,Jeep,Grand Cherokee,SUV,2018,8,Petrol,Automatic,First,74900,3604,292.2,9.8,5,30.51
+L0082,Mercedes-Benz,E-Class,Sedan,2016,10,Diesel,Automatic,First,84300,1950,190.2,15.2,5,27.0
+L0083,BMW,7 Series,Sedan,2025,1,Petrol,Automatic,First,6800,2998,375.2,9.7,5,170.35
+L0084,Land Rover,Range Rover,SUV,2015,11,Diesel,Automatic,First,128500,2993,352.6,14.6,5,72.04
+L0085,Mercedes-Benz,GLC,SUV,2016,10,Diesel,Automatic,Second,91300,1950,193.5,14.6,5,23.27
+L0086,BMW,3 Series,Sedan,2021,5,Diesel,Automatic,First,49700,1995,195.2,15.4,5,32.54
+L0087,Mercedes-Benz,E-Class,Sedan,2024,2,Diesel,Automatic,First,17600,1950,194.6,17.2,5,61.92
+L0088,Audi,A4,Sedan,2018,8,Diesel,Automatic,Second,81200,1968,190.5,18.2,5,18.26
+L0089,Mercedes-Benz,C-Class,Sedan,2022,4,Diesel,Automatic,First,56900,1950,197.7,16.9,5,41.1
+L0090,Mercedes-Benz,C-Class,Sedan,2018,8,Petrol,Automatic,Second,87500,1496,201.9,11.5,5,20.82
+L0091,Porsche,911,Coupe,2018,8,Petrol,Automatic,First,66600,3996,510.4,9.5,4,85.7
+L0092,Mercedes-Benz,GLC,SUV,2025,1,Petrol,Automatic,First,8500,1991,251.1,11.0,5,67.72
+L0093,Lexus,LX 570,SUV,2018,8,Petrol,Automatic,First,33900,5663,362.2,5.6,7,168.45
+L0094,Mercedes-Benz,C-Class,Sedan,2018,8,Diesel,Automatic,First,105300,1950,195.0,16.9,5,23.37
+L0095,Mercedes-Benz,E-Class,Sedan,2024,2,Petrol,Automatic,First,17900,1991,197.0,11.0,5,65.04
+L0096,Porsche,911,Coupe,2024,2,Petrol,Automatic,First,18200,2981,377.6,10.7,4,146.44
+L0097,BMW,X1,SUV,2023,3,Petrol,Automatic,First,42600,1499,137.6,12.1,5,34.98
+L0098,BMW,5 Series,Sedan,2020,6,Diesel,Automatic,First,68300,1995,191.3,14.6,5,39.05
+L0099,Audi,A4,Sedan,2022,4,Petrol,Automatic,First,26900,1984,186.1,9.8,5,31.81
+L0100,Land Rover,Discovery Sport,SUV,2025,1,Diesel,Automatic,First,9100,1999,181.7,15.2,7,56.76
+L0101,Mercedes-Benz,GLE,SUV,2020,6,Diesel,Automatic,Second,34700,2925,329.0,14.8,5,52.04
+L0102,BMW,X1,SUV,2024,2,Petrol,Automatic,First,24700,1499,133.8,10.7,5,39.88
+L0103,Mercedes-Benz,E-Class,Sedan,2024,2,Petrol,Automatic,First,28500,1991,195.6,10.2,5,59.27
+L0104,Jaguar,XF,Sedan,2019,7,Petrol,Automatic,First,78300,1997,248.2,11.1,5,27.05
+L0105,Audi,Q5,SUV,2022,4,Diesel,Automatic,First,48400,1968,195.4,15.9,5,43.26
+L0106,BMW,7 Series,Sedan,2019,7,Petrol,Automatic,First,46800,2998,385.1,9.9,5,88.64
+L0107,Audi,Q5,SUV,2023,3,Diesel,Automatic,First,32000,1968,184.7,17.0,5,47.06
+L0108,BMW,7 Series,Sedan,2016,10,Diesel,Automatic,First,103100,2993,264.0,15.5,5,60.67
+L0109,BMW,3 Series,Sedan,2019,7,Petrol,Automatic,Second,71600,1998,248.8,12.4,5,22.75
+L0110,BMW,7 Series,Sedan,2017,9,Diesel,Automatic,First,95500,2993,259.5,15.4,5,65.38
+L0111,Mercedes-Benz,E-Class,Sedan,2016,10,Petrol,Automatic,Second,90900,1991,194.5,12.8,5,24.83
+L0112,Mercedes-Benz,C-Class,Sedan,2025,1,Petrol,Automatic,First,11200,1496,198.1,12.0,5,50.78
+L0113,BMW,X1,SUV,2023,3,Diesel,Automatic,Second,36800,1995,147.1,16.5,5,31.66
+L0114,Maserati,Ghibli,Sedan,2025,1,Diesel,Automatic,First,14300,2987,271.1,15.1,5,159.81
+L0115,BMW,X5,SUV,2023,3,Petrol,Automatic,First,37200,2998,343.0,9.3,5,74.22
+L0116,Mini,Cooper S,Hatchback,2022,4,Petrol,Manual,Third,49200,1998,183.9,11.5,4,19.63
+L0117,Mercedes-Benz,S-Class,Sedan,2025,1,Diesel,Automatic,First,12400,2925,328.2,16.3,5,164.15
+L0118,Jaguar,F-Pace,SUV,2022,4,Diesel,Automatic,Second,41800,1999,179.1,15.9,5,44.16
+L0119,Maserati,Ghibli,Sedan,2015,11,Petrol,Automatic,First,86700,2979,335.8,9.5,5,51.37
+L0120,Audi,Q3,SUV,2020,6,Diesel,Automatic,First,58500,1968,186.3,16.5,5,25.45
+L0121,Audi,A4,Sedan,2025,1,Diesel,Automatic,Second,11100,1968,192.5,18.2,5,37.54
+L0122,Porsche,911,Coupe,2015,11,Petrol,Automatic,Second,106700,2981,376.2,10.0,4,57.37
+L0123,Mercedes-Benz,C-Class,Sedan,2016,10,Petrol,Automatic,Third,115400,1496,208.8,10.8,5,16.51
+L0124,Maserati,Ghibli,Sedan,2018,8,Diesel,Automatic,Second,70200,2987,273.0,14.5,5,65.22
+L0125,Audi,A6,Sedan,2017,9,Diesel,Automatic,Second,105700,1968,185.9,15.9,5,21.16
+L0126,BMW,X1,SUV,2018,8,Petrol,Automatic,First,87800,1499,133.6,12.2,5,21.47
+L0127,Mercedes-Benz,GLE,SUV,2025,1,Diesel,Automatic,First,15300,2925,326.2,14.7,5,94.66
+L0128,Audi,A6,Sedan,2025,1,Petrol,Automatic,First,11500,1984,248.1,11.8,5,56.21
+L0129,Jeep,Grand Cherokee,SUV,2018,8,Petrol,Automatic,First,70200,3604,287.6,7.8,5,32.25
+L0130,Land Rover,Range Rover,SUV,2024,2,Petrol,Automatic,First,21100,2996,395.0,9.9,5,192.66
+L0131,Lexus,LX 570,SUV,2021,5,Petrol,Automatic,First,11700,5663,363.4,5.8,7,214.25
+L0132,Mercedes-Benz,C-Class,Sedan,2023,3,Diesel,Automatic,First,30200,1950,190.2,16.2,5,41.7
+L0133,Audi,A6,Sedan,2025,1,Diesel,Automatic,First,8600,1968,194.8,17.5,5,57.73
+L0134,Mercedes-Benz,GLE,SUV,2025,1,Diesel,Automatic,First,6000,2925,332.1,14.4,5,82.86
+L0135,BMW,3 Series,Sedan,2022,4,Diesel,Automatic,First,51300,1995,191.2,17.2,5,38.7
+L0136,Mercedes-Benz,E-Class,Sedan,2012,14,Diesel,Automatic,First,147200,1950,189.6,14.8,5,18.12
+L0137,Mercedes-Benz,E-Class,Sedan,2024,2,Diesel,Automatic,First,18300,1950,189.1,14.3,5,67.25
+L0138,Audi,A4,Sedan,2022,4,Petrol,Automatic,First,48400,1984,194.1,10.6,5,35.66
+L0139,Bentley,Continental GT,Coupe,2021,5,Petrol,Automatic,Second,41300,3993,554.1,7.2,4,222.43
+L0140,Land Rover,Discovery Sport,SUV,2015,11,Petrol,Automatic,First,106700,1997,244.4,9.8,7,18.4
+L0141,Mini,Cooper S,Hatchback,2013,13,Petrol,Automatic,Second,138400,1998,189.1,10.7,4,9.14
+L0142,Mercedes-Benz,E-Class,Sedan,2016,10,Diesel,Automatic,First,88000,1950,195.1,15.6,5,27.17
+L0143,Mercedes-Benz,GLC,SUV,2022,4,Diesel,Automatic,First,37000,1950,195.3,16.3,5,53.08
+L0144,Audi,A4,Sedan,2024,2,Diesel,Automatic,Third,24300,1968,185.8,15.9,5,34.9
+L0145,Lexus,NX 300h,SUV,2023,3,Hybrid,Automatic,First,36500,2494,188.9,17.6,5,45.14
+L0146,Mercedes-Benz,E-Class,Sedan,2025,1,Petrol,Automatic,First,7200,1991,192.9,11.3,5,73.96
+L0147,Land Rover,Range Rover,SUV,2018,8,Petrol,Automatic,First,51600,2996,405.6,10.2,5,103.84
+L0148,Porsche,911,Coupe,2019,7,Petrol,Automatic,First,55800,2981,388.7,7.9,4,88.42
+L0149,BMW,5 Series,Sedan,2023,3,Petrol,Automatic,Second,30100,1998,254.5,11.3,5,45.66
+L0150,Mercedes-Benz,GLC,SUV,2024,2,Diesel,Automatic,First,23700,1950,199.4,17.4,5,60.63
+L0151,Lexus,ES 300h,Sedan,2020,6,Hybrid,Automatic,First,61100,2487,213.5,19.3,5,33.06
+L0152,Audi,A6,Sedan,2025,1,Diesel,Automatic,Third,9900,1968,188.4,15.6,5,48.07
+L0153,Porsche,911,Coupe,2012,14,Petrol,Automatic,Second,107000,2981,382.9,9.2,4,43.03
+L0154,Audi,A6,Sedan,2015,11,Petrol,Automatic,First,100000,1984,242.7,9.8,5,21.4
+L0155,Porsche,Cayenne,SUV,2022,4,Petrol,Automatic,First,33800,3996,531.3,8.1,5,101.53
+L0156,Jaguar,XF,Sedan,2025,1,Petrol,Automatic,First,18600,1997,250.1,9.9,5,48.78
+L0157,Land Rover,Range Rover Evoque,SUV,2021,5,Petrol,Automatic,First,64800,1997,249.8,11.5,5,39.34
+L0158,Audi,A4,Sedan,2021,5,Petrol,Automatic,First,48600,1984,187.1,11.5,5,31.02
+L0159,Mercedes-Benz,E-Class,Sedan,2024,2,Diesel,Automatic,First,12700,1950,198.7,16.9,5,65.14
+L0160,Mercedes-Benz,S-Class,Sedan,2023,3,Diesel,Automatic,Second,29200,2925,339.2,14.4,5,131.83
+L0161,Audi,Q7,SUV,2020,6,Petrol,Automatic,First,53000,2995,335.2,10.5,7,48.32
+L0162,BMW,3 Series,Sedan,2024,2,Diesel,Automatic,First,25300,1995,191.8,17.8,5,46.5
+L0163,Audi,Q3,SUV,2021,5,Petrol,Automatic,First,40300,1984,192.8,10.4,5,28.14
+L0164,Audi,Q3,SUV,2023,3,Diesel,Automatic,Second,31200,1968,193.1,16.6,5,29.41
+L0165,Mercedes-Benz,GLC,SUV,2021,5,Petrol,Automatic,First,54100,1991,256.7,11.2,5,45.42
+L0166,Mercedes-Benz,GLC,SUV,2023,3,Petrol,Automatic,First,33700,1991,254.0,10.6,5,54.82
+L0167,BMW,5 Series,Sedan,2025,1,Diesel,Automatic,First,20600,1995,185.7,16.2,5,59.08
+L0168,Mercedes-Benz,GLC,SUV,2022,4,Diesel,Automatic,First,46600,1950,196.5,17.7,5,46.97
+L0169,Land Rover,Discovery Sport,SUV,2022,4,Diesel,Automatic,First,36800,1999,179.6,16.4,7,38.9
+L0170,Land Rover,Range Rover,SUV,2025,1,Petrol,Automatic,First,2700,2996,405.4,8.4,5,210.65
+L0171,BMW,7 Series,Sedan,2023,3,Diesel,Automatic,Second,33900,2993,263.3,14.6,5,132.91
+L0172,Mercedes-Benz,S-Class,Sedan,2024,2,Petrol,Automatic,First,21300,2999,365.8,8.6,5,147.11
+L0173,Mercedes-Benz,GLE,SUV,2018,8,Diesel,Automatic,First,77100,2925,324.7,14.5,5,43.76
+L0174,Mini,Cooper S,Hatchback,2024,2,Petrol,Automatic,Second,10400,1998,191.8,10.3,4,32.19
+L0175,Mercedes-Benz,E-Class,Sedan,2023,3,Diesel,Automatic,First,20400,1950,192.0,15.7,5,53.36
+L0176,Mercedes-Benz,GLC,SUV,2025,1,Diesel,Automatic,First,19700,1950,190.7,16.5,5,64.77
+L0177,Mercedes-Benz,GLE,SUV,2025,1,Petrol,Automatic,First,11400,1991,270.8,11.3,5,89.71
+L0178,Mercedes-Benz,S-Class,Sedan,2022,4,Diesel,Automatic,First,30700,2925,326.1,15.9,5,122.77
+L0179,Mercedes-Benz,C-Class,Sedan,2025,1,Petrol,Automatic,Third,9100,1496,205.8,11.3,5,40.67
+L0180,BMW,5 Series,Sedan,2020,6,Diesel,Automatic,Second,69200,1995,186.0,17.0,5,34.34
+L0181,BMW,3 Series,Sedan,2025,1,Petrol,Automatic,First,4800,1998,257.3,10.0,5,49.24
+L0182,Jaguar,XF,Sedan,2024,2,Diesel,Automatic,First,17300,1999,178.9,18.1,5,47.76
+L0183,BMW,5 Series,Sedan,2022,4,Petrol,Automatic,First,37600,1998,244.3,14.0,5,49.27
+L0184,Lexus,NX 300h,SUV,2023,3,Hybrid,Automatic,First,22900,2494,191.6,19.1,5,45.98
+L0185,BMW,5 Series,Sedan,2021,5,Diesel,Automatic,First,36200,1995,185.5,17.6,5,40.59
+L0186,Mercedes-Benz,C-Class,Sedan,2024,2,Petrol,Manual,First,19700,1496,201.5,12.9,5,45.01
+L0187,Audi,Q5,SUV,2020,6,Petrol,Automatic,Second,87700,1984,243.4,11.2,5,29.84
+L0188,Lexus,NX 300h,SUV,2023,3,Hybrid,Manual,First,26000,2494,197.4,18.2,5,42.35
+L0189,Mercedes-Benz,GLE,SUV,2023,3,Petrol,Automatic,First,38700,1991,260.0,13.2,5,76.04
+L0190,Jaguar,XF,Sedan,2016,10,Diesel,Automatic,First,118400,1999,173.8,16.4,5,18.65
+L0191,Mercedes-Benz,GLC,SUV,2024,2,Diesel,Automatic,First,18700,1950,194.4,16.3,5,62.87
+L0192,Audi,Q3,SUV,2025,1,Diesel,Automatic,First,10800,1968,194.4,17.1,5,42.49
+L0193,Lexus,NX 300h,SUV,2024,2,Hybrid,Automatic,First,28100,2494,193.5,18.6,5,53.59
+L0194,Mercedes-Benz,E-Class,Sedan,2024,2,Petrol,Automatic,Second,18400,1991,190.1,11.5,5,57.42
+L0195,Jeep,Grand Cherokee,SUV,2025,1,Petrol,Automatic,First,12000,3604,283.8,9.2,5,59.35
+L0196,Mercedes-Benz,C-Class,Sedan,2016,10,Diesel,Automatic,First,122500,1950,188.2,17.7,5,19.86
+L0197,Lexus,NX 300h,SUV,2023,3,Hybrid,Automatic,First,32500,2494,197.0,18.5,5,43.81
+L0198,BMW,7 Series,Sedan,2020,6,Diesel,Automatic,First,48800,2993,264.2,15.4,5,100.48
+L0199,Mercedes-Benz,E-Class,Sedan,2020,6,Petrol,Automatic,First,40800,1991,190.5,10.7,5,44.77
+L0200,Audi,A4,Sedan,2024,2,Petrol,Automatic,Second,20500,1984,192.5,11.8,5,34.71
+L0201,Mercedes-Benz,C-Class,Sedan,2019,7,Diesel,Automatic,First,69400,1950,195.8,14.5,5,28.64
+L0202,BMW,X1,SUV,2024,2,Petrol,Automatic,First,21200,1499,135.7,11.4,5,39.26
+L0203,Mercedes-Benz,GLC,SUV,2023,3,Diesel,Automatic,First,39500,1950,196.4,15.6,5,52.74
+L0204,BMW,5 Series,Sedan,2022,4,Petrol,Automatic,First,43400,1998,248.3,10.6,5,45.77
+L0205,Mercedes-Benz,GLC,SUV,2024,2,Diesel,Automatic,First,17500,1950,190.5,16.7,5,65.21
+L0206,Mercedes-Benz,E-Class,Sedan,2020,6,Petrol,Automatic,First,55300,1991,199.1,10.4,5,42.32
+L0207,Mercedes-Benz,GLC,SUV,2018,8,Diesel,Automatic,Second,80600,1950,196.0,16.4,5,30.58
+L0208,Audi,A6,Sedan,2020,6,Diesel,Automatic,Second,61300,1968,187.4,16.0,5,28.22
+L0209,Mercedes-Benz,C-Class,Sedan,2015,11,Diesel,Automatic,First,109200,1950,198.0,14.8,5,17.03
+L0210,BMW,X1,SUV,2018,8,Petrol,Automatic,Second,81800,1499,132.7,10.8,5,20.49
+L0211,Audi,A4,Sedan,2024,2,Diesel,Automatic,First,13000,1968,189.5,16.0,5,41.09
+L0212,Mercedes-Benz,E-Class,Sedan,2019,7,Diesel,Automatic,Second,47100,1950,190.6,15.8,5,34.72
+L0213,Mercedes-Benz,C-Class,Sedan,2020,6,Petrol,Automatic,First,67900,1496,208.3,11.1,5,29.89
+L0214,Mercedes-Benz,GLE,SUV,2025,1,Petrol,Automatic,First,7500,1991,267.6,12.5,5,92.0
+L0215,Mini,Cooper S,Hatchback,2021,5,Petrol,Manual,Second,64700,1998,187.8,11.3,4,18.77
+L0216,Porsche,Cayenne,SUV,2024,2,Petrol,Automatic,First,23100,2995,334.0,10.3,5,108.54
+L0217,BMW,3 Series,Sedan,2018,8,Petrol,Automatic,First,90200,1998,261.1,12.0,5,20.99
+L0218,Lexus,ES 300h,Sedan,2024,2,Hybrid,Automatic,Second,19100,2487,216.5,17.9,5,47.4
+L0219,Mini,Cooper S,Hatchback,2020,6,Petrol,Automatic,First,46100,1998,189.8,12.3,4,23.21
+L0220,Mercedes-Benz,GLC,SUV,2018,8,Petrol,Automatic,First,66200,1991,249.7,10.4,5,35.77
+L0221,BMW,3 Series,Sedan,2024,2,Diesel,Automatic,Second,15800,1995,185.9,17.8,5,40.25
+L0222,Volvo,XC90,SUV,2020,6,Petrol,Automatic,First,43000,1969,296.3,10.5,7,52.85
+L0223,Porsche,Macan,SUV,2023,3,Petrol,Automatic,First,30600,2894,371.6,10.5,5,65.74
+L0224,Audi,Q3,SUV,2025,1,Petrol,Automatic,Second,2800,1984,192.7,10.7,5,36.01
+L0225,Maserati,Ghibli,Sedan,2025,1,Diesel,Automatic,First,12700,2987,266.4,15.8,5,139.73
+L0226,Jaguar,F-Pace,SUV,2024,2,Diesel,Automatic,Second,32600,1999,174.8,16.6,5,52.41
+L0227,Jaguar,F-Pace,SUV,2021,5,Diesel,Automatic,First,46000,1999,180.0,18.1,5,42.96
+L0228,Mercedes-Benz,GLC,SUV,2024,2,Petrol,Automatic,First,24500,1991,255.6,12.1,5,56.77
+L0229,Rolls-Royce,Ghost,Sedan,2025,1,Petrol,Automatic,First,3200,6592,564.1,5.5,5,536.21
+L0230,Mercedes-Benz,S-Class,Sedan,2024,2,Diesel,Automatic,First,18000,2925,336.4,13.9,5,164.46
+L0231,Mercedes-Benz,C-Class,Sedan,2024,2,Diesel,Automatic,First,24500,1950,192.1,16.5,5,52.35
+L0232,Mercedes-Benz,E-Class,Sedan,2024,2,Petrol,Automatic,First,25100,1991,191.5,12.5,5,65.01
+L0233,Audi,A4,Sedan,2022,4,Petrol,Automatic,First,45500,1984,187.3,11.5,5,34.03
+L0234,BMW,5 Series,Sedan,2022,4,Petrol,Automatic,Second,49900,1998,249.9,11.1,5,44.86
+L0235,Audi,A6,Sedan,2024,2,Diesel,Automatic,First,34400,1968,188.7,17.4,5,50.79
+L0236,Porsche,Cayenne,SUV,2024,2,Petrol,Automatic,Second,22800,3996,550.8,7.5,5,109.71
+L0237,Mercedes-Benz,E-Class,Sedan,2021,5,Diesel,Automatic,Second,49600,1950,191.6,15.0,5,47.78
+L0238,Mercedes-Benz,C-Class,Sedan,2019,7,Diesel,Automatic,First,70000,1950,198.4,16.1,5,29.15
+L0239,Land Rover,Range Rover Evoque,SUV,2023,3,Diesel,Automatic,Second,34700,1999,176.8,15.8,5,43.42
+L0240,BMW,X1,SUV,2020,6,Diesel,Automatic,First,66800,1995,152.3,18.4,5,27.35
+L0241,Mercedes-Benz,C-Class,Sedan,2024,2,Diesel,Automatic,Second,22400,1950,192.5,15.6,5,46.36
+L0242,Audi,A6,Sedan,2018,8,Petrol,Automatic,First,96900,1984,243.8,10.8,5,25.29
+L0243,Porsche,Macan,SUV,2023,3,Petrol,Automatic,Second,23600,1984,265.7,10.6,5,58.06
+L0244,Bentley,Continental GT,Coupe,2022,4,Petrol,Automatic,Second,20200,5998,638.4,5.5,4,224.9
+L0245,BMW,X5,SUV,2019,7,Diesel,Automatic,Second,65900,2993,261.8,13.2,5,46.78
+L0246,Land Rover,Range Rover Evoque,SUV,2019,7,Petrol,Automatic,First,64300,1997,243.0,12.6,5,29.66
+L0247,Jaguar,F-Pace,SUV,2022,4,Petrol,Automatic,First,42700,1997,244.6,10.1,5,47.58
+L0248,Land Rover,Discovery Sport,SUV,2024,2,Petrol,Automatic,Second,22700,1997,253.3,13.2,7,44.91
+L0249,Land Rover,Range Rover,SUV,2023,3,Diesel,Automatic,First,31100,2993,347.2,16.3,5,169.5
+L0250,BMW,X1,SUV,2019,7,Diesel,Automatic,First,73500,1995,154.5,15.5,5,24.37
+L0251,BMW,7 Series,Sedan,2018,8,Petrol,Automatic,First,74400,2998,364.6,8.8,5,82.85
+L0252,Audi,Q3,SUV,2019,7,Petrol,Automatic,First,55500,1984,184.3,11.9,5,21.06
+L0253,BMW,3 Series,Sedan,2015,11,Petrol,Automatic,First,115900,1998,260.5,9.9,5,17.61
+L0254,BMW,X1,SUV,2016,10,Diesel,Automatic,Second,102500,1995,151.5,14.5,5,15.58
+L0255,BMW,X5,SUV,2023,3,Diesel,Automatic,First,30300,2993,264.2,12.6,5,78.84
+L0256,Audi,Q7,SUV,2020,6,Diesel,Automatic,First,46300,2967,245.3,13.8,7,46.05
+L0257,BMW,3 Series,Sedan,2025,1,Diesel,Manual,First,16400,1995,193.7,17.0,5,46.7
+L0258,Audi,Q5,SUV,2016,10,Diesel,Automatic,First,83900,1968,193.2,16.6,5,23.39
+L0259,Volvo,XC90,SUV,2017,9,Diesel,Automatic,First,69800,1969,232.7,16.2,7,34.01
+L0260,Audi,Q7,SUV,2015,11,Petrol,Automatic,First,75900,2995,339.9,8.2,7,30.48
+L0261,Audi,Q3,SUV,2022,4,Diesel,Automatic,First,55500,1968,189.7,16.0,5,31.41
+L0262,BMW,3 Series,Sedan,2018,8,Petrol,Automatic,First,106600,1998,254.5,8.9,5,22.69
+L0263,Audi,Q7,SUV,2020,6,Petrol,Automatic,First,53400,2995,334.7,11.4,7,46.09
+L0264,Jaguar,XF,Sedan,2022,4,Petrol,Automatic,Second,35600,1997,250.2,9.9,5,34.23
+L0265,Lexus,ES 300h,Sedan,2020,6,Hybrid,Manual,Second,67000,2487,219.3,18.8,5,30.03
+L0266,BMW,X1,SUV,2025,1,Petrol,Automatic,First,5400,1499,136.6,12.3,5,44.13
+L0267,Jeep,Grand Cherokee,SUV,2025,1,Diesel,Automatic,First,17300,2987,231.3,14.5,5,64.67
+L0268,Land Rover,Range Rover Evoque,SUV,2025,1,Petrol,Automatic,Second,8100,1997,253.5,10.5,5,53.36
+L0269,Lexus,NX 300h,SUV,2023,3,Hybrid,Automatic,Second,29500,2494,194.1,19.8,5,38.1
+L0270,Porsche,Cayenne,SUV,2024,2,Petrol,Automatic,First,27800,2995,328.9,10.8,5,125.01
+L0271,Mercedes-Benz,C-Class,Sedan,2016,10,Petrol,Automatic,Second,98700,1496,203.8,9.9,5,18.11
+L0272,Mercedes-Benz,E-Class,Sedan,2025,1,Diesel,Automatic,Second,12200,1950,197.1,15.8,5,64.22
+L0273,Audi,A4,Sedan,2025,1,Diesel,Automatic,First,6100,1968,194.6,15.6,5,46.77
+L0274,Mercedes-Benz,C-Class,Sedan,2023,3,Diesel,Automatic,First,21500,1950,191.6,15.7,5,45.22
+L0275,Jeep,Grand Cherokee,SUV,2012,14,Petrol,Automatic,Second,136500,3604,287.6,9.4,5,13.3
+L0276,Jaguar,XF,Sedan,2022,4,Petrol,Manual,Second,35000,1997,249.7,11.6,5,27.51
+L0277,Audi,Q7,SUV,2025,1,Diesel,Automatic,First,19700,2967,239.2,15.4,7,79.8
+L0278,BMW,X5,SUV,2015,11,Petrol,Automatic,First,102100,2998,342.0,7.5,5,35.01
+L0279,Lexus,NX 300h,SUV,2023,3,Hybrid,Automatic,Third,31700,2494,195.9,18.1,5,37.89
+L0280,BMW,5 Series,Sedan,2024,2,Diesel,Automatic,First,23000,1995,190.4,15.7,5,63.54
+L0281,Mercedes-Benz,GLC,SUV,2016,10,Diesel,Automatic,First,107000,1950,194.7,15.6,5,26.03
+L0282,Volvo,XC90,SUV,2020,6,Diesel,Automatic,Second,54200,1969,241.2,17.0,7,51.6
+L0283,BMW,3 Series,Sedan,2019,7,Diesel,Automatic,First,70200,1995,186.8,14.6,5,25.46
+L0284,BMW,7 Series,Sedan,2022,4,Diesel,Automatic,First,45400,2993,271.9,14.8,5,124.41
+L0285,Jaguar,XF,Sedan,2019,7,Petrol,Automatic,First,76600,1997,239.9,12.2,5,25.81
+L0286,Mercedes-Benz,GLE,SUV,2017,9,Diesel,Automatic,Second,70600,2925,323.6,15.5,5,36.39
+L0287,Porsche,911,Coupe,2022,4,Petrol,Automatic,First,37800,3996,492.5,7.9,4,131.37
+L0288,BMW,3 Series,Sedan,2023,3,Diesel,Automatic,First,28800,1995,193.8,15.6,5,43.42
+L0289,Volvo,XC60,SUV,2025,1,Diesel,Automatic,First,13300,1969,187.2,15.9,5,49.02
+L0290,Land Rover,Range Rover Evoque,SUV,2019,7,Diesel,Automatic,Third,75400,1999,176.5,16.0,5,25.0
+L0291,Bentley,Continental GT,Coupe,2015,11,Petrol,Automatic,First,40800,5998,634.3,5.5,4,171.22
+L0292,BMW,3 Series,Sedan,2019,7,Diesel,Automatic,Second,65400,1995,192.8,17.8,5,23.8
+L0293,Porsche,Cayenne,SUV,2021,5,Petrol,Automatic,Second,41600,3996,558.2,8.8,5,83.69
+L0294,Mercedes-Benz,GLC,SUV,2021,5,Diesel,Automatic,First,55800,1950,197.1,15.1,5,41.74
+L0295,BMW,X1,SUV,2022,4,Diesel,Automatic,First,49100,1995,150.9,15.4,5,27.56
+L0296,Mercedes-Benz,GLE,SUV,2019,7,Petrol,Automatic,Second,68400,1991,270.6,11.4,5,45.48
+L0297,Mercedes-Benz,C-Class,Sedan,2025,1,Petrol,Automatic,Second,12800,1496,203.4,12.9,5,45.51
+L0298,Mercedes-Benz,C-Class,Sedan,2019,7,Diesel,Automatic,First,78000,1950,197.3,17.1,5,29.33
+L0299,Audi,Q7,SUV,2021,5,Diesel,Automatic,First,42700,2967,250.8,14.5,7,48.87
+L0300,Lexus,ES 300h,Sedan,2022,4,Hybrid,Automatic,First,30100,2487,217.6,18.1,5,42.52
+L0301,BMW,7 Series,Sedan,2024,2,Petrol,Automatic,First,21600,2998,382.9,10.3,5,141.05
+L0302,Porsche,Macan,SUV,2020,6,Petrol,Automatic,First,43200,1984,265.1,11.6,5,45.98
+L0303,Land Rover,Range Rover Evoque,SUV,2023,3,Diesel,Automatic,Second,48600,1999,174.5,16.7,5,43.9
+L0304,Mercedes-Benz,GLC,SUV,2018,8,Diesel,Automatic,First,73600,1950,195.9,16.3,5,30.1
+L0305,Porsche,Macan,SUV,2025,1,Petrol,Automatic,First,14500,2894,379.6,10.9,5,77.54
+L0306,Mercedes-Benz,GLC,SUV,2019,7,Petrol,Automatic,First,75200,1991,252.4,11.5,5,35.6
+L0307,Land Rover,Range Rover,SUV,2023,3,Petrol,Automatic,First,14800,2996,388.2,9.9,5,156.8
+L0308,Mini,Cooper S,Hatchback,2018,8,Petrol,Automatic,Second,68600,1998,192.6,11.5,4,16.49
+L0309,Mercedes-Benz,C-Class,Sedan,2023,3,Petrol,Automatic,First,31900,1496,206.6,11.0,5,44.69
+L0310,Rolls-Royce,Ghost,Sedan,2023,3,Petrol,Automatic,Second,15500,6592,549.9,5.5,5,433.66
+L0311,Audi,Q7,SUV,2025,1,Petrol,Automatic,First,10700,2995,342.6,10.0,7,79.42
+L0312,Jaguar,XF,Sedan,2023,3,Diesel,Automatic,First,33500,1999,171.7,16.9,5,43.04
+L0313,BMW,7 Series,Sedan,2016,10,Petrol,Automatic,First,89100,2998,376.9,9.5,5,58.42
+L0314,Maserati,Ghibli,Sedan,2021,5,Diesel,Automatic,First,37500,2987,266.6,15.3,5,91.92
+L0315,BMW,7 Series,Sedan,2021,5,Diesel,Automatic,First,36100,2993,266.9,14.9,5,110.37
+L0316,BMW,X5,SUV,2024,2,Diesel,Automatic,First,9000,2993,265.9,14.4,5,94.57
+L0317,Mercedes-Benz,C-Class,Sedan,2022,4,Diesel,Automatic,First,38100,1950,197.6,15.9,5,36.69
+L0318,Lexus,NX 300h,SUV,2024,2,Hybrid,Automatic,Second,13900,2494,189.4,18.2,5,44.34
+L0319,Mercedes-Benz,GLC,SUV,2021,5,Petrol,Automatic,First,43300,1991,256.6,10.3,5,46.43
+L0320,Mini,Cooper S,Hatchback,2023,3,Petrol,Automatic,Second,37100,1998,187.7,10.5,4,28.52
+L0321,Mini,Cooper S,Hatchback,2018,8,Petrol,Automatic,First,83900,1998,193.9,10.7,4,17.6
+L0322,Mercedes-Benz,C-Class,Sedan,2019,7,Petrol,Automatic,First,72000,1496,198.5,12.8,5,28.68
+L0323,Audi,Q5,SUV,2021,5,Diesel,Automatic,First,49900,1968,187.1,17.3,5,40.76
+L0324,Mini,Cooper S,Hatchback,2022,4,Petrol,Manual,First,36900,1998,188.3,12.4,4,25.15
+L0325,Audi,A4,Sedan,2014,12,Diesel,Automatic,Third,129200,1968,192.7,14.4,5,10.02
+L0326,Mercedes-Benz,E-Class,Sedan,2022,4,Diesel,Automatic,Second,41300,1950,189.2,16.0,5,49.57
+L0327,Mercedes-Benz,E-Class,Sedan,2017,9,Petrol,Automatic,First,91500,1991,195.2,11.4,5,30.83
+L0328,Mercedes-Benz,C-Class,Sedan,2025,1,Petrol,Automatic,First,11800,1496,209.9,12.4,5,53.93
+L0329,BMW,X5,SUV,2022,4,Petrol,Automatic,First,36100,2998,344.4,10.2,5,70.21
+L0330,Audi,Q5,SUV,2022,4,Diesel,Automatic,First,47100,1968,187.7,17.2,5,41.53
+L0331,BMW,5 Series,Sedan,2017,9,Petrol,Automatic,First,99500,1998,251.3,11.3,5,28.05
+L0332,Jaguar,F-Pace,SUV,2018,8,Petrol,Automatic,First,85100,1997,243.4,10.4,5,31.81
+L0333,Volvo,XC60,SUV,2021,5,Petrol,Automatic,Second,56800,1969,246.1,10.1,5,34.91
+L0334,Bentley,Continental GT,Coupe,2025,1,Petrol,Automatic,First,10300,5998,638.9,5.5,4,325.82
+L0335,Audi,Q5,SUV,2015,11,Diesel,Automatic,First,124200,1968,188.5,15.4,5,19.87
+L0336,Mercedes-Benz,GLE,SUV,2021,5,Petrol,Automatic,First,40500,1991,260.4,10.6,5,59.76
+L0337,Land Rover,Range Rover,SUV,2025,1,Diesel,Automatic,First,13000,2993,334.7,16.1,5,224.58
+L0338,Volvo,XC90,SUV,2018,8,Diesel,Automatic,First,84200,1969,228.2,15.0,7,41.27
+L0339,Mercedes-Benz,C-Class,Sedan,2018,8,Petrol,Automatic,First,76900,1496,202.0,10.8,5,25.84
+L0340,Audi,Q3,SUV,2023,3,Petrol,Automatic,First,28700,1984,189.9,10.3,5,33.64
+L0341,Mercedes-Benz,E-Class,Sedan,2025,1,Diesel,Automatic,First,14000,1950,199.1,17.7,5,71.22
+L0342,Land Rover,Range Rover Evoque,SUV,2019,7,Diesel,Automatic,First,78400,1999,172.4,15.1,5,28.73
+L0343,Land Rover,Range Rover,SUV,2016,10,Diesel,Automatic,First,72200,2993,343.1,16.1,5,80.48
+L0344,Porsche,911,Coupe,2024,2,Petrol,Automatic,First,16200,2981,381.0,8.8,4,151.57
+L0345,Audi,A6,Sedan,2021,5,Diesel,Automatic,First,54400,1968,187.0,14.1,5,38.01
+L0346,Mercedes-Benz,S-Class,Sedan,2023,3,Diesel,Automatic,Second,20800,2925,337.6,15.1,5,126.2
+L0347,Land Rover,Range Rover,SUV,2021,5,Diesel,Automatic,First,45300,2993,336.9,14.2,5,150.87
+L0348,Mercedes-Benz,C-Class,Sedan,2025,1,Petrol,Manual,First,11400,1496,204.2,12.8,5,48.59
+L0349,Land Rover,Range Rover Evoque,SUV,2023,3,Diesel,Automatic,First,37700,1999,178.9,17.4,5,45.67
+L0350,Bentley,Continental GT,Coupe,2016,10,Petrol,Automatic,First,40400,5998,618.3,5.5,4,174.73
+L0351,BMW,7 Series,Sedan,2021,5,Diesel,Automatic,First,52400,2993,260.7,15.8,5,106.6
+L0352,Mercedes-Benz,GLC,SUV,2022,4,Diesel,Automatic,First,54200,1950,190.5,13.8,5,46.17
+L0353,Audi,A4,Sedan,2019,7,Diesel,Automatic,First,65100,1968,187.4,15.2,5,24.33
+L0354,BMW,3 Series,Sedan,2018,8,Petrol,Automatic,Second,77500,1998,260.6,10.4,5,20.24
+L0355,Porsche,911,Coupe,2019,7,Petrol,Automatic,Second,47900,2981,378.0,9.7,4,84.02
+L0356,Lexus,ES 300h,Sedan,2022,4,Hybrid,Automatic,First,42500,2487,221.4,17.3,5,45.57
+L0357,Mercedes-Benz,GLC,SUV,2016,10,Petrol,Automatic,First,93600,1991,257.2,11.4,5,25.44
+L0358,Mercedes-Benz,GLE,SUV,2015,11,Diesel,Automatic,First,83900,2925,336.4,14.9,5,32.09
+L0359,Maserati,Ghibli,Sedan,2025,1,Petrol,Automatic,First,6200,2979,346.7,7.8,5,153.69
+L0360,Mercedes-Benz,GLC,SUV,2019,7,Diesel,Automatic,First,70500,1950,194.6,16.8,5,39.66
+L0361,BMW,3 Series,Sedan,2023,3,Diesel,Automatic,First,29500,1995,184.4,16.3,5,41.48
+L0362,Mercedes-Benz,E-Class,Sedan,2021,5,Diesel,Automatic,First,51400,1950,199.6,15.7,5,53.19
+L0363,Jaguar,F-Pace,SUV,2023,3,Diesel,Automatic,Third,15700,1999,182.3,17.9,5,44.19
+L0364,Mercedes-Benz,GLC,SUV,2020,6,Diesel,Automatic,First,54000,1950,196.5,15.2,5,40.2
+L0365,BMW,3 Series,Sedan,2025,1,Petrol,Automatic,First,17700,1998,255.5,9.9,5,49.02
+L0366,BMW,X5,SUV,2023,3,Diesel,Automatic,First,23400,2993,260.5,14.2,5,79.9
+L0367,Mercedes-Benz,C-Class,Sedan,2022,4,Diesel,Automatic,First,46800,1950,196.6,18.5,5,42.62
+L0368,Mercedes-Benz,E-Class,Sedan,2013,13,Petrol,Automatic,First,112500,1991,193.3,11.8,5,20.5
+L0369,Land Rover,Range Rover,SUV,2025,1,Petrol,Automatic,Second,16300,2996,404.0,9.7,5,181.76
+L0370,Jeep,Grand Cherokee,SUV,2022,4,Petrol,Automatic,First,36900,3604,281.6,8.9,5,45.72
+L0371,Maserati,Ghibli,Sedan,2024,2,Petrol,Automatic,First,21500,2979,352.8,12.0,5,133.72
+L0372,Mercedes-Benz,S-Class,Sedan,2020,6,Diesel,Automatic,First,62700,2925,329.4,13.6,5,111.29
+L0373,Mercedes-Benz,C-Class,Sedan,2021,5,Petrol,Automatic,First,68000,1496,207.5,10.6,5,35.23
+L0374,Land Rover,Discovery Sport,SUV,2020,6,Petrol,Automatic,First,65100,1997,245.3,11.0,7,31.84
+L0375,Volvo,XC60,SUV,2023,3,Petrol,Automatic,Second,28900,1969,239.7,11.1,5,39.36
+L0376,Mini,Cooper S,Hatchback,2023,3,Petrol,Automatic,First,36400,1998,189.6,10.2,4,31.82
+L0377,Jaguar,XF,Sedan,2023,3,Diesel,Manual,First,37100,1999,180.2,16.3,5,38.48
+L0378,Audi,Q7,SUV,2016,10,Diesel,Automatic,Second,98000,2967,244.9,14.3,7,26.56
+L0379,Audi,Q3,SUV,2021,5,Petrol,Manual,First,60000,1984,187.0,11.3,5,23.49
+L0380,Land Rover,Range Rover,SUV,2019,7,Diesel,Automatic,First,60000,2993,341.1,14.9,5,120.46
+L0381,Mini,Cooper S,Hatchback,2012,14,Petrol,Manual,Second,140000,1998,191.2,12.4,4,7.5
+L0382,Jaguar,F-Pace,SUV,2021,5,Petrol,Automatic,First,52400,1997,248.4,11.4,5,39.69
+L0383,Porsche,Macan,SUV,2016,10,Petrol,Automatic,First,93400,2894,365.0,8.4,5,33.99
+L0384,Mercedes-Benz,C-Class,Sedan,2025,1,Petrol,Automatic,First,14600,1496,198.3,13.3,5,54.89
+L0385,Audi,A6,Sedan,2022,4,Petrol,Automatic,First,37700,1984,234.3,10.7,5,41.6
+L0386,BMW,5 Series,Sedan,2023,3,Petrol,Automatic,First,32600,1998,246.0,11.3,5,58.74
+L0387,Audi,Q5,SUV,2023,3,Diesel,Automatic,First,33700,1968,192.8,15.0,5,53.02
+L0388,Porsche,Cayenne,SUV,2018,8,Petrol,Automatic,First,72100,2995,330.5,10.4,5,66.84
+L0389,Mercedes-Benz,E-Class,Sedan,2024,2,Petrol,Automatic,Second,25000,1991,190.7,11.4,5,54.51
+L0390,Mercedes-Benz,C-Class,Sedan,2018,8,Diesel,Automatic,First,77500,1950,194.0,16.2,5,24.29
+L0391,BMW,X5,SUV,2019,7,Petrol,Automatic,First,48300,2998,332.5,9.4,5,47.85
+L0392,Maserati,Ghibli,Sedan,2024,2,Petrol,Automatic,First,19800,2979,343.0,8.9,5,138.93
+L0393,Land Rover,Range Rover,SUV,2025,1,Diesel,Automatic,First,15000,2993,340.2,13.6,5,203.01
+L0394,Porsche,911,Coupe,2024,2,Petrol,Automatic,Second,25000,2981,385.9,10.3,4,139.07
+L0395,Volvo,XC60,SUV,2025,1,Petrol,Automatic,First,11000,1969,251.8,10.5,5,60.59
+L0396,Mercedes-Benz,GLE,SUV,2023,3,Petrol,Automatic,Second,33600,1991,260.4,12.4,5,64.05
+L0397,BMW,3 Series,Sedan,2020,6,Diesel,Automatic,First,57900,1995,195.3,15.9,5,29.5
+L0398,Land Rover,Range Rover Evoque,SUV,2023,3,Petrol,Automatic,First,43300,1997,242.0,11.9,5,46.15
+L0399,Audi,Q5,SUV,2019,7,Diesel,Automatic,First,90000,1968,189.7,17.0,5,31.47
+L0400,Audi,Q7,SUV,2021,5,Diesel,Automatic,First,39000,2967,240.3,17.5,7,52.69
+L0401,Porsche,Macan,SUV,2025,1,Petrol,Automatic,Second,11300,1984,265.3,13.3,5,77.66
+L0402,Land Rover,Range Rover,SUV,2024,2,Petrol,Automatic,First,21700,2996,382.9,10.0,5,202.15
+L0403,Mercedes-Benz,E-Class,Sedan,2021,5,Diesel,Automatic,First,48900,1950,198.9,18.1,5,50.72
+L0404,Audi,Q7,SUV,2018,8,Petrol,Automatic,First,58500,2995,325.1,9.9,7,34.19
+L0405,Mercedes-Benz,GLC,SUV,2022,4,Petrol,Automatic,Second,52000,1991,251.1,10.1,5,41.22
+L0406,BMW,X1,SUV,2021,5,Petrol,Automatic,Second,54300,1499,135.6,11.3,5,25.06
+L0407,Land Rover,Range Rover,SUV,2021,5,Petrol,Automatic,First,43700,2996,395.2,8.9,5,128.5
+L0408,Mercedes-Benz,GLE,SUV,2016,10,Petrol,Automatic,First,81300,1991,262.0,10.7,5,39.18
+L0409,BMW,X1,SUV,2016,10,Diesel,Automatic,First,82900,1995,152.4,16.0,5,16.72
+L0410,Mini,Cooper S,Hatchback,2022,4,Petrol,Automatic,First,53200,1998,192.6,9.6,4,26.27
+L0411,Mercedes-Benz,GLC,SUV,2023,3,Diesel,Automatic,Third,36900,1950,198.8,17.7,5,44.41
+L0412,Mini,Cooper S,Hatchback,2014,12,Petrol,Automatic,Second,106600,1998,191.7,12.2,4,10.66
+L0413,Volvo,XC60,SUV,2025,1,Diesel,Automatic,First,14700,1969,185.4,14.5,5,57.63
+L0414,Land Rover,Range Rover Evoque,SUV,2022,4,Diesel,Automatic,First,39600,1999,175.5,15.3,5,41.61
+L0415,Porsche,Cayenne,SUV,2024,2,Petrol,Automatic,Second,29000,3996,557.9,8.5,5,109.55
+L0416,Jaguar,F-Pace,SUV,2025,1,Diesel,Automatic,First,11000,1999,176.6,16.0,5,64.31
+L0417,Mercedes-Benz,GLC,SUV,2022,4,Petrol,Automatic,First,43800,1991,254.1,10.3,5,46.68
+L0418,Lexus,NX 300h,SUV,2019,7,Hybrid,Automatic,First,75000,2494,199.2,16.7,5,31.8
+L0419,BMW,3 Series,Sedan,2023,3,Diesel,Automatic,Second,28600,1995,185.7,15.3,5,36.82
+L0420,BMW,5 Series,Sedan,2023,3,Diesel,Automatic,Second,26700,1995,184.3,17.0,5,47.35
+L0421,Mini,Cooper S,Hatchback,2024,2,Petrol,Automatic,Second,25000,1998,188.9,12.4,4,31.02
+L0422,Volvo,XC90,SUV,2023,3,Petrol,Automatic,First,29400,1969,298.1,11.5,7,67.05
+L0423,Lexus,ES 300h,Sedan,2023,3,Hybrid,Automatic,First,31000,2487,220.7,19.1,5,49.16
+L0424,BMW,3 Series,Sedan,2023,3,Petrol,Automatic,Second,36000,1998,249.4,12.4,5,35.7
+L0425,BMW,X5,SUV,2020,6,Petrol,Automatic,First,51400,2998,340.3,9.8,5,57.03
+L0426,Ferrari,Portofino,Coupe,2022,4,Petrol,Automatic,First,25600,3855,603.8,7.6,4,247.66
+L0427,Mercedes-Benz,C-Class,Sedan,2018,8,Diesel,Automatic,First,61800,1950,191.6,16.8,5,24.77
+L0428,Audi,Q5,SUV,2024,2,Diesel,Automatic,First,24400,1968,185.5,16.8,5,54.38
+L0429,BMW,X5,SUV,2016,10,Diesel,Automatic,First,75200,2993,263.5,14.2,5,38.97
+L0430,Mercedes-Benz,C-Class,Sedan,2021,5,Diesel,Automatic,Third,47000,1950,193.0,18.0,5,27.65
+L0431,BMW,X5,SUV,2016,10,Diesel,Automatic,First,57600,2993,260.5,14.4,5,37.99
+L0432,BMW,X1,SUV,2025,1,Diesel,Automatic,First,19000,1995,154.4,15.5,5,50.05
+L0433,Mercedes-Benz,E-Class,Sedan,2024,2,Petrol,Automatic,First,19000,1991,190.1,11.1,5,63.77
+L0434,Volvo,XC90,SUV,2022,4,Diesel,Automatic,First,35400,1969,241.2,16.7,7,64.87
+L0435,Mercedes-Benz,GLE,SUV,2020,6,Diesel,Automatic,First,48300,2925,325.6,16.7,5,60.02
+L0436,Mercedes-Benz,C-Class,Sedan,2024,2,Diesel,Automatic,First,25300,1950,191.2,15.0,5,45.13
+L0437,Mercedes-Benz,GLE,SUV,2024,2,Petrol,Automatic,First,25200,1991,272.1,11.8,5,82.9
+L0438,Land Rover,Discovery Sport,SUV,2020,6,Petrol,Automatic,First,45400,1997,253.5,11.3,7,33.32
+L0439,Mercedes-Benz,S-Class,Sedan,2023,3,Diesel,Automatic,Second,32000,2925,333.9,14.0,5,129.44
+L0440,Mercedes-Benz,C-Class,Sedan,2015,11,Diesel,Automatic,Third,107200,1950,190.0,13.8,5,14.22
+L0441,BMW,X5,SUV,2023,3,Diesel,Automatic,Second,23200,2993,262.0,14.0,5,71.17
+L0442,Audi,Q5,SUV,2021,5,Petrol,Automatic,First,56500,1984,252.0,10.1,5,37.77
+L0443,BMW,X5,SUV,2021,5,Petrol,Automatic,Third,54100,2998,337.5,8.8,5,43.97
+L0444,BMW,X5,SUV,2022,4,Petrol,Automatic,First,29900,2998,341.3,10.0,5,67.26
+L0445,Bentley,Continental GT,Coupe,2019,7,Petrol,Automatic,First,16100,3993,553.3,8.0,4,222.64
+L0446,Volvo,XC60,SUV,2025,1,Diesel,Automatic,Second,12300,1969,192.9,15.5,5,52.37
+L0447,Jaguar,XF,Sedan,2025,1,Petrol,Automatic,First,13400,1997,251.8,11.3,5,48.53
+L0448,Lamborghini,Urus,SUV,2020,6,Petrol,Automatic,First,26600,3996,633.3,9.1,5,205.23
+L0449,BMW,X1,SUV,2019,7,Diesel,Automatic,First,77700,1995,153.6,15.4,5,23.84
+L0450,Jeep,Grand Cherokee,SUV,2020,6,Petrol,Automatic,First,59300,3604,285.0,8.9,5,39.16
+L0451,Mercedes-Benz,C-Class,Sedan,2021,5,Petrol,Automatic,First,79300,1496,204.2,11.4,5,33.49
+L0452,Land Rover,Range Rover,SUV,2020,6,Diesel,Automatic,Second,39900,2993,351.3,14.5,5,115.46
+L0453,Lexus,ES 300h,Sedan,2023,3,Hybrid,Manual,Second,23100,2487,215.0,18.8,5,37.66
+L0454,Audi,Q3,SUV,2025,1,Diesel,Automatic,First,11000,1968,188.2,16.1,5,43.37
+L0455,Lexus,ES 300h,Sedan,2022,4,Hybrid,Automatic,First,49300,2487,220.8,17.3,5,41.31
+L0456,Mercedes-Benz,E-Class,Sedan,2023,3,Petrol,Automatic,First,19800,1991,193.3,11.4,5,60.73
+L0457,BMW,X5,SUV,2020,6,Diesel,Automatic,First,62600,2993,262.4,15.7,5,57.08
+L0458,BMW,3 Series,Sedan,2021,5,Diesel,Automatic,First,50100,1995,185.4,15.7,5,34.22
+L0459,Lexus,ES 300h,Sedan,2023,3,Hybrid,Automatic,First,26800,2487,214.4,18.7,5,46.95
+L0460,Porsche,911,Coupe,2021,5,Petrol,Automatic,First,58300,3996,496.3,9.9,4,111.08
+L0461,Audi,A4,Sedan,2018,8,Petrol,Automatic,First,90500,1984,193.1,10.6,5,20.7
+L0462,Lamborghini,Urus,SUV,2013,13,Petrol,Automatic,First,51000,3996,631.5,10.6,5,137.54
+L0463,Mercedes-Benz,S-Class,Sedan,2023,3,Petrol,Automatic,Second,24100,2999,356.3,11.4,5,130.13
+L0464,Mercedes-Benz,E-Class,Sedan,2023,3,Diesel,Automatic,Second,30500,1950,197.7,15.8,5,54.81
+L0465,Jaguar,XF,Sedan,2018,8,Diesel,Automatic,First,71800,1999,179.1,16.3,5,23.74
+L0466,Bentley,Continental GT,Coupe,2014,12,Petrol,Automatic,First,33700,3993,539.5,9.6,4,172.75
+L0467,Audi,Q3,SUV,2021,5,Petrol,Automatic,First,52700,1984,192.9,10.2,5,27.57
+L0468,BMW,7 Series,Sedan,2020,6,Petrol,Automatic,First,43700,2998,374.4,8.2,5,96.45
+L0469,BMW,5 Series,Sedan,2020,6,Petrol,Automatic,First,40600,1998,243.3,11.6,5,35.24
+L0470,Mercedes-Benz,S-Class,Sedan,2021,5,Petrol,Automatic,First,39600,2999,360.4,12.1,5,105.89
+L0471,Land Rover,Range Rover,SUV,2019,7,Diesel,Automatic,First,43800,2993,350.9,14.2,5,120.28
+L0472,Mercedes-Benz,GLC,SUV,2024,2,Petrol,Automatic,First,17400,1991,252.3,11.6,5,56.44
+L0473,BMW,7 Series,Sedan,2020,6,Diesel,Automatic,First,42200,2993,259.4,14.2,5,99.58
+L0474,Mini,Cooper S,Hatchback,2015,11,Petrol,Manual,First,131200,1998,190.8,8.2,4,11.04
+L0475,Mercedes-Benz,C-Class,Sedan,2018,8,Diesel,Automatic,First,90200,1950,194.5,15.6,5,23.56
+L0476,Audi,A6,Sedan,2022,4,Petrol,Automatic,Second,47200,1984,234.3,11.7,5,38.6
+L0477,Audi,Q5,SUV,2022,4,Diesel,Automatic,Second,55100,1968,191.8,17.7,5,38.18
+L0478,Audi,Q5,SUV,2020,6,Petrol,Automatic,First,63000,1984,250.6,11.8,5,31.36
+L0479,BMW,5 Series,Sedan,2022,4,Petrol,Automatic,First,40000,1998,249.8,11.5,5,46.81
+L0480,Audi,A6,Sedan,2025,1,Diesel,Automatic,First,13500,1968,184.9,17.5,5,57.8
+L0481,Mini,Cooper S,Hatchback,2015,11,Petrol,Manual,First,115500,1998,189.7,10.5,4,11.57
+L0482,Lexus,LX 570,SUV,2019,7,Petrol,Automatic,First,49000,5663,358.6,6.6,7,178.0
+L0483,Mercedes-Benz,S-Class,Sedan,2020,6,Diesel,Automatic,First,62400,2925,333.9,13.1,5,100.39
+L0484,Lexus,LX 570,SUV,2023,3,Petrol,Automatic,First,11700,5663,370.3,7.3,7,246.52
+L0485,Volvo,XC60,SUV,2023,3,Petrol,Automatic,First,35400,1969,244.3,10.6,5,46.68
+L0486,Mini,Cooper S,Hatchback,2016,10,Petrol,Automatic,First,112900,1998,194.5,10.6,4,13.99
+L0487,Porsche,Cayenne,SUV,2025,1,Petrol,Automatic,Second,10100,3996,532.1,9.1,5,133.07
+L0488,Porsche,Cayenne,SUV,2024,2,Petrol,Automatic,First,16800,2995,329.2,9.8,5,133.81
+L0489,BMW,5 Series,Sedan,2022,4,Petrol,Automatic,First,47200,1998,244.8,9.7,5,46.16
+L0490,Mercedes-Benz,GLC,SUV,2019,7,Petrol,Automatic,Second,60500,1991,248.8,9.9,5,33.64
+L0491,BMW,X1,SUV,2018,8,Petrol,Automatic,First,71300,1499,133.8,12.2,5,20.11
+L0492,Mercedes-Benz,E-Class,Sedan,2025,1,Diesel,Automatic,First,15000,1950,196.2,18.0,5,79.04
+L0493,BMW,X1,SUV,2024,2,Petrol,Automatic,Second,14500,1499,133.9,10.8,5,34.89
+L0494,BMW,5 Series,Sedan,2019,7,Petrol,Automatic,First,65400,1998,253.0,9.0,5,33.18
+L0495,Maserati,Ghibli,Sedan,2025,1,Diesel,Automatic,First,7300,2987,265.0,16.0,5,150.53
+L0496,Land Rover,Range Rover Evoque,SUV,2022,4,Petrol,Automatic,Second,53400,1997,246.2,11.1,5,33.1
+L0497,Porsche,911,Coupe,2021,5,Petrol,Automatic,First,35300,3996,506.7,7.3,4,112.53
+L0498,BMW,3 Series,Sedan,2024,2,Diesel,Automatic,First,19500,1995,190.0,16.8,5,49.46
+L0499,BMW,X1,SUV,2022,4,Diesel,Automatic,First,37100,1995,148.4,16.7,5,34.1
+L0500,Audi,Q3,SUV,2025,1,Petrol,Automatic,First,23000,1984,187.0,11.0,5,42.18
